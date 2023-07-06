@@ -1,0 +1,9 @@
+[{
+    "name": "Geraldine",
+    "email": "email@email.com",
+    "phone": "123-456-7890",
+    "date": "2023-07-07",
+    "ordertype": "delivery",
+    "product": ["cake", "cupcakes", "cakepops"],
+    "details": "It's birthday"
+}]
